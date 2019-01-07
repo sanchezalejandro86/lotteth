@@ -1,0 +1,28 @@
+{
+  "name": "lotteth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezalejandro86/lotteth.git"
+  },
+  "keywords": [
+    "lotto",
+    "eth"
+  ],
+  "author": "Alejandro Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchezalejandro86/lotteth/issues"
+  },
+  "homepage": "https://github.com/sanchezalejandro86/lotteth#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "openzeppelin-solidity": "^2.1.1"
+  }
+}
